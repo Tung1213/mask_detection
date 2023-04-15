@@ -1,0 +1,8 @@
+classes= 3
+train  = Mask_detection/cfg/train.txt
+#valid  = coco_testdev
+#valid = data/coco_val_5k.list
+names = Mask_detection/cfg/coco.names
+backup = Mask_detection/cfg/weights
+eval=coco
+
