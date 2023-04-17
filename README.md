@@ -18,16 +18,10 @@
 為了方便區分三種口罩檢測的人數，利用三種顏色(紅、藍、綠)區分
 1. 紅色: 口罩沒戴、 2. 綠色: 口罩戴好、3. 藍色:  口罩沒戴好
 
-
-
-
-
 ___
-
-
 
 
 ## 口罩檢測系統Demo
 
+https://user-images.githubusercontent.com/58096503/232461901-3a1340c5-c996-4bdd-84bd-ca16256e8f1d.mp4
 
-https://user-images.githubusercontent.com/58096503/232460781-95edbd0c-0893-419a-9561-bf63519266d7.mp4
